@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="Test">
+        <classes>
+            <class name ="com.apicase.UserModule.test01_user02_yonghudenglu"/>
+            <class name="com.apicase.UserModule.test01_user03_yonghuxiangxixinxi"/>
+            <class name="com.apicase.UserModule.test02_address01_zengjiadizhi"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
